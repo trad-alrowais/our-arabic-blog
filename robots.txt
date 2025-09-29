@@ -1,0 +1,3 @@
+﻿User-agent: *
+Allow: /
+Sitemap: https://our_arabic_blog.com/sitemap.xml
